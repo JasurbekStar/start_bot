@@ -23,6 +23,6 @@ jobs:
     
     - name: Run bot
       env:
-        API: '8551486504:AAEaVcXfmdrinWifmYIBP5fN2fUrkAizyjI'
+        API: 8551486504:AAEaVcXfmdrinWifmYIBP5fN2fUrkAizyjI
       run: |
         python main.py
